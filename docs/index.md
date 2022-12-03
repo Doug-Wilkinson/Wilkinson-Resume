@@ -3,12 +3,14 @@ layout: cv
 title: Doug Wilkinson's Resume
 ---
 # Doug Wilkinson
-Business Analytics Student at Brigham Young University Idaho.
+Aspiring business analyst specializing in data entry and organization with
+experience in office 365, powerbi, tableau, and SQL. Extra-curricular activities
+include Student Athlete playing football, Personal Trainer, and an NPC
+competitor.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+<a href="dougwilkinson4@gmail.com">dougwilkinson4@gmail.com</a>
+| <a href="https://www.linkedin.com/in/briandouglaswilkinson/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
@@ -16,74 +18,63 @@ Business Analytics Student at Brigham Young University Idaho.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2023`
+`Expected July 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
+Business Analytics
+
+- 3.5 Major GPA
+- Powerbi Tableau
+- intro to SQL
+- Spreadsheet Analysis 
+- Data Science Programming
+- Strength Training Theory & Application
+
+`2019 - 2020`
+__University of Idaho__, Moscow, ID
+Business Analytics
 
 - 4.0 Major GPA
+- Student Athlete on the Football Team
 
 
-## Related Experience
+## Experience
 
-### Internships
+`July 2022 - Present`
+__Service Technician__, _Alpine Hot Tubs_, McCall, ID
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+- Serviced Hot Tubs and Spas
+- Adjusted levels of PH, chlorine, bromine, alkalinity, and total hardness
+- Repaired Hot tubs and Spas
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+`January 2022 - July 2022`
+__Lead Personal Trainer__, _Brigham Young University-Idaho Wellness Center_, Rexburg, ID
 
-### Data Science Lead
+- Designed individualized programs based on goals for hypertrophy, strength, power, and endurance
+- Demonstrated and taught correct lifting techniques including Olympic lifting
+- Motivated over 40 individuals at a time to better themselves through exercise
+- Adapted exercises for children, elderly, and individuals with health conditions
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`September 2020 - January 2022`
+__Student Coordinator__, _Brigham Young University-Idaho Recreation Facilities_, Rexburg, ID
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Led and supervised a team of 8, overseeing a weightlifting gym, 10 basketball courts, and an equipment room
+- Practiced leadership and customer service by filling needs of over 500 customers daily
+- Supervised work schedules and time recorded by other students
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+## Achievements
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`2017 - 2019`
+__Full-Time Volunteer Representative of the Church of Jesus
+Christ of Latter-Day Saints__, Argentina 
 
-### Data Science Consulting Team
+`April 2022`
+__NPC Competitor 1st Place__, _Wasatch Warrior_, Salt Lake City, Utah
 
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
+`2019`
+__University of Idaho Student Athlete__, _Football_, Moscow, ID
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2022 -->
 
 
