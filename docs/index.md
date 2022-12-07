@@ -3,6 +3,7 @@ layout: cv
 title: Doug Wilkinson's Resume
 ---
 # Doug Wilkinson
+
 Aspiring business analyst specializing in data entry and organization with
 experience in office 365, powerbi, tableau, and SQL. Extra-curricular activities
 include Student Athlete playing football, Personal Trainer, and an NPC
